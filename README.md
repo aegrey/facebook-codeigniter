@@ -17,6 +17,6 @@ History
 ---------------
 I originally created this code as a proprietary library for use by my company. I have since used it in several applications and facebook apps. 
 
-Considering Facebook applications are no longer a huge demand of my company, I am releasing this library for use by anyone who is interested. I will update it when I have time, but feel free to suggest edits/updates.
+Considering Facebook applications are no longer in huge demand, I am releasing this library for use by anyone who is interested. I will update it when I have time, but feel free to suggest edits/updates.
 
 *Facebook libraries are also included in this package - they are copyright Facebook.*

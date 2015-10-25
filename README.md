@@ -15,11 +15,11 @@ Library files should be placed in application/libraries/
 
 Considering Facebook applications are no longer in huge demand, I will update it when I have time, but feel free to suggest edits/updates.
 
-----
 *Facebook libraries are also included in this package - they are copyright Facebook.*
-----
 
-^facebook-codeigniter is a Codeigniter library that assists in Facebook application development.
+
+<sup>
+Facebook-Codeigniter is a Codeigniter library that assists in Facebook application development.
 Copyright (C) 2015  Ann Eliese Grey
 
 This program is free software; you can redistribute it and/or modify
@@ -34,4 +34,5 @@ GNU General Public License for more details in the "LICENSE" file in this reposi
 
 You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.^
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+</sup>

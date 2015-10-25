@@ -13,16 +13,13 @@ Last used with CodeIgniter 2.1
 
 Library files should be placed in application/libraries/
 
-History
----------------
-I originally created this code as a proprietary library for use by my company. I have since used it in several applications and facebook apps. 
+Considering Facebook applications are no longer in huge demand, I will update it when I have time, but feel free to suggest edits/updates.
 
-Considering Facebook applications are no longer in huge demand, I am releasing this library for use by anyone who is interested. I will update it when I have time, but feel free to suggest edits/updates.
-
+----
 *Facebook libraries are also included in this package - they are copyright Facebook.*
+----
 
-
-facebook-codeigniter is a Codeigniter library that assists in Facebook application development.
+^facebook-codeigniter is a Codeigniter library that assists in Facebook application development.
 Copyright (C) 2015  Ann Eliese Grey
 
 This program is free software; you can redistribute it and/or modify
@@ -37,4 +34,4 @@ GNU General Public License for more details in the "LICENSE" file in this reposi
 
 You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.^
